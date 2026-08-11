@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Task Manager",
+    "slug": "dcit324-task-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F5FB"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.dcit324.taskmanager" },
+    "web": { "bundler": "metro" }
+  }
+}
